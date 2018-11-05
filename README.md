@@ -1,1 +1,1 @@
-ssm-自用整合
+ssmIntegration
